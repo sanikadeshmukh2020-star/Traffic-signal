@@ -1,0 +1,27 @@
+
+.parent {
+    width: 7%;
+    height: 250px;
+    
+    align-items: center;
+    gap: 20px;
+    background-color: #f0f0f0;
+}
+
+.P1, .P2, .P3 {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    }
+
+.P1 {
+    background-color: red;
+    }
+
+.P2 {
+    background-color: yellow;
+    }
+
+.P3 {
+    background-color: green;
+    }
